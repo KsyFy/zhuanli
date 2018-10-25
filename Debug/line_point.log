@@ -1,0 +1,32 @@
+﻿Build started 2018-10-24 21:08:59.
+     1>Project "E:\Ksy\专利\line_point\line_point\line_point.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\install\software_work\vs2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt line_point.cpp
+         line_point.cpp
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(67): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(124): warning C4018: '<' : signed/unsigned mismatch
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(40): warning C4101: 'x12' : unreferenced local variable
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(40): warning C4101: 'x13' : unreferenced local variable
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(34): warning C4101: 'min' : unreferenced local variable
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(34): warning C4101: 'group' : unreferenced local variable
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(40): warning C4101: 'y11' : unreferenced local variable
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(34): warning C4101: 'rest' : unreferenced local variable
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(40): warning C4101: 'y13' : unreferenced local variable
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(40): warning C4101: 'x11' : unreferenced local variable
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(40): warning C4101: 'y12' : unreferenced local variable
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(222): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(223): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(225): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(226): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(261): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(262): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(264): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>e:\ksy\专利\line_point\line_point\line_point.cpp(265): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         D:\install\software_work\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Ksy\专利\line_point\Debug\line_point.exe" /INCREMENTAL /NOLOGO opencv_ml2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_nonfree2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_videostab2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Ksy\专利\line_point\Debug\line_point.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Ksy\专利\line_point\Debug\line_point.lib" /MACHINE:X86 Debug\line_point.obj
+         line_point.vcxproj -> E:\Ksy\专利\line_point\Debug\line_point.exe
+     1>Done Building Project "E:\Ksy\专利\line_point\line_point\line_point.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.62
